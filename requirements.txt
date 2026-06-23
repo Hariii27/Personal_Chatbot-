@@ -1,0 +1,5 @@
+streamlit==1.35.0
+langgraph==0.2.28
+langchain-groq
+langchain-core==0.2.38
+langgraph-checkpoint-sqlite
